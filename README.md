@@ -32,7 +32,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/fajarghifar/inventory-management-system
+    git clone https://github.com/abdallahbenothmentrabelsi/inventory-management-system
     ```
 
 2. **Navigate to the project folder:**
@@ -193,12 +193,4 @@ Have ideas to improve the system? Feel free to:
 -   Submit a **Pull Request (PR)**
 -   Create an **Issue** for feature requests or bugs
 
-## 📄 License
 
-Licensed under the [MIT License](LICENSE).
-
----
-
-> Find me on [GitHub](https://github.com/fajarghifar) &nbsp;&middot;&nbsp; [YouTube](https://www.youtube.com/@fajarghifar) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/fajarghifar/)
-
----
